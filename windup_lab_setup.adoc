@@ -44,7 +44,7 @@ Subsequently, ensure that the x86_64 bit (`amd64`) version of VirtualBox is inst
 +
 image::images/newvm.png[]
 . In the `Create Virtual Machine` panel, populate its fields as follows:
-.. `Name:` devops_using_ose
+.. `Name:` windup_labs
 .. `Type:` Linux
 .. `Version:` Red Hat (64-bit)
 . Click `Next`
